@@ -1,4 +1,4 @@
-#Steven Harrison's Data Science Portfolio
+##Steven Harrison's Data Science Portfolio
 
 I am a Data Science with experience in the compliance, security and data governance domain expertise. I have thus far built my career at the intersection of data and IT security and compliance at Deloitte. While at Deloitte I worked as a consultant within the internal audit market offering. In this role I worked with clients in the high technology and internet industries to improve their IT security, data reliability and organizational management of data. It was there that developed a passion for working with data and identifying trends which were useful to my clients or issues in data pipelines causing erroneous data to appear in downstream repositories. It was after enjoying these projects at Deloitte that I decided that I would begin the transition to a full time data science role. 
 
